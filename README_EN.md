@@ -17,7 +17,7 @@
 ---
 
 ## 🏆 Certifications & Training
-- 📜 **Thai MOOC (Thailand Cyber University Project, Ministry of Higher Education, Science, Research and Innovation):** Cybersecurity Principle for Technology Practitioners (3 hours), issued by the Digital Economy and Society Commission, 19 September 2026 | [Verify certificate](ADD_QR_LINK_HERE)
+- 📜 **Thai MOOC (Thailand Cyber University Project, Ministry of Higher Education, Science, Research and Innovation):** Cybersecurity Principle for Technology Practitioners (3 hours), issued by the Digital Economy and Society Commission, 19 September 2026 | [Verify certificate](https://learn.thaimooc.ac.th/certificates/7325d02f6dc042f78b8b0305ed11a7cb?fbclid=IwY2xjawUcruZwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMVRKU1Z1dlhZRGc1NTRZc0dzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeV2cGXvxyxhQ4NQt2omljDDkwlMdsAZujt_Q178SxeQw-tsDfj-xewgJXAZc_aem_CLbbbhIHnfVNY8_d8DmEFw)
 - 📜 **Cisco Networking Academy:** Introduction to Cybersecurity
 - 📜 **Fortinet Certified Fundamentals (FCF):** Technical Introduction to Cybersecurity
 
