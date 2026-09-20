@@ -15,6 +15,7 @@
 ---
 
 ## 🏆 Certifications & Training (ใบประกาศนียบัตร)
+- 📜 **Thai MOOC (Thailand Cyber University Project):** การรักษาความปลอดภัยไซเบอร์สำหรับผู้ปฏิบัติงานด้านเทคโนโลยี | Cybersecurity Principle for Technology Practitioners (3 ชั่วโมง) — 19 กันยายน 2569 | [ตรวจสอบใบประกาศ](https://learn.thaimooc.ac.th/certificates/7325d02f6dc042f78b8b0305ed11a7cb?fbclid=IwY2xjawUcruZwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMVRKU1Z1dlhZRGc1NTRZc0dzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeV2cGXvxyxhQ4NQt2omljDDkwlMdsAZujt_Q178SxeQw-tsDfj-xewgJXAZc_aem_CLbbbhIHnfVNY8_d8DmEFw)
 - 📜 **Cisco Networking Academy:** Introduction to Cybersecurity
 - 📜 **Fortinet Certified Fundamentals (FCF):** Technical Introduction to Cybersecurity
 
