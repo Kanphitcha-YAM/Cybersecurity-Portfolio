@@ -1,5 +1,7 @@
 # 🛡️ Cybersecurity Portfolio | นายกันต์พิชชา แย้มภิรมย์ศรี
 
+   🇬🇧 [Read in English](README_EN.md)
+   
 > นักเรียนระดับชั้น ปวช. 3 สาขาเทคโนโลยีสารสนเทศ ที่มีความสนใจและหลงใหลในด้าน Cybersecurity & Penetration Testing
 
 ---
